@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "powder:anhamalium_ore"
+  },
+  "result": "powder:anhamalia_ingot",
+  "experience": 6,
+  "cookingtime": 100
+}

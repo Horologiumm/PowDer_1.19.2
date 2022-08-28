@@ -1,0 +1,30 @@
+{
+  "item.powder.ousia_dust" : "Ousia Dust",
+  "item.powder.magia_dust" : "Magia Dust",
+  "item.powder.basis_powder" : "Basis Powder",
+
+  "item.powder.aero_powder" : "Aero Powder",
+  "item.powder.hydro_powder" : "Hydro Powder",
+  "item.powder.cryo_powder" : "Cryo Powder",
+  "item.powder.geo_powder" : "Geo Powder",
+  "item.powder.electro_powder" : "Electro Powder",
+  "item.powder.pyro_powder" : "Pyro Powder",
+
+  "item.powder.magia_ingot": "Magia Ingot",
+  "item.powder.basis_ingot": "Basis Ingot",
+  "item.powder.aero_ingot": "Aero Ingot",
+  "item.powder.pyro_ingot": "Pyro Ingot",
+  "item.powder.hydro_ingot": "Hydro Ingot",
+  "item.powder.geo_ingot": "Geo Ingot",
+  "item.powder.cryo_ingot": "Cryo Ingot",
+  "item.powder.electro_ingot": "Electro Ingot",
+
+  "block.powder.ousia_ore" : "Ousia Ore",
+  "block.powder.magia_ore" : "Magia Ore",
+  "block.powder.deepslate_magia_ore" : "Deepslate Magia Ore",
+  "block.powder.magia_block" : "Block of Magia",
+  "block.powder.basis_block" : "Block of Basis",
+
+  "itemGroup.powderTab": "PowDer",
+  "entity.minecraft.villager.powder.powder_merchant" : "Powder Merchant"
+}

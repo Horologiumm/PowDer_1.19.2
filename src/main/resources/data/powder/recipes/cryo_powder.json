@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "powder:hydro_powder"
+    }
+  ],
+  "result": {
+    "item": "powder:cryo_powder",
+    "count": 1
+  }
+}

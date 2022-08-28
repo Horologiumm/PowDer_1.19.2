@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "powder:basis_powder"
+    }
+  ],
+  "result": {
+    "item": "powder:hydro_powder",
+    "count": 1
+  }
+}

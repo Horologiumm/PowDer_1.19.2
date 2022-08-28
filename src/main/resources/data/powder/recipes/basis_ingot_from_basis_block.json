@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "powder:basis_block"
+    }
+  ],
+  "result": {
+    "item": "powder:basis_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:white_carpet"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "item": "powder:basis_powder"
+    }
+  ],
+  "result": {
+    "item": "powder:aero_powder",
+    "count": 1
+  }
+}

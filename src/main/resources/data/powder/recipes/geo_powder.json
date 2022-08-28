@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "powder:basis_powder"
+    }
+  ],
+  "result": {
+    "item": "powder:geo_powder",
+    "count": 1
+  }
+}

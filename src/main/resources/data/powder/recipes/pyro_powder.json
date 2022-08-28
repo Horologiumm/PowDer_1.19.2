@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "powder:basis_powder"
+    }
+  ],
+  "result": {
+    "item": "powder:pyro_powder",
+    "count": 1
+  }
+}

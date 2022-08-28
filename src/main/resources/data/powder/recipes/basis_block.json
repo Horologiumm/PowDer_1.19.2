@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "powder:basis_ingot"
+    }
+  },
+  "result": {
+    "item": "powder:basis_block"
+  }
+}

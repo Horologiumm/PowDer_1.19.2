@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IXI"
+  ],
+  "key": {
+    "X": {
+      "item": "powder:magia_stone"
+    },
+    "I": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "powder:gilded_magia_stone"
+  }
+}
